@@ -1,11 +1,11 @@
 {
   "name": "weighted-random-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a weighted random object from an array of objects.",
   "main": "lib/weighted-random-object.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	 "prepublish": "babel src --out-dir lib"
+    "prepublish": "babel src --out-dir lib"
   },
   "author": "Just Thomas Hiorth Misund",
   "license": "GNU GPL v3",
