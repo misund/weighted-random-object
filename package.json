@@ -1,6 +1,6 @@
 {
   "name": "weighted-random-object",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get a weighted random object from an array of objects.",
   "main": "lib/weighted-random-object.js",
   "scripts": {
