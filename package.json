@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "babel src --out-dir lib"
   },
+  "repository": {
+    "type": "git",
+	 "url": "https://github.com/misund/weighted-random-object"
+  },
   "author": "Just Thomas Hiorth Misund",
   "license": "GNU GPL v3",
   "devDependencies": {
