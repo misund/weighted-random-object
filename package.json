@@ -1,6 +1,6 @@
 {
   "name": "weighted-random-object",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Get a weighted random object from an array of objects.",
   "main": "lib/weighted-random-object.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-	 "url": "https://github.com/misund/weighted-random-object"
+    "url": "https://github.com/misund/weighted-random-object"
   },
   "author": "Just Thomas Hiorth Misund",
   "license": "GNU GPL v3",
