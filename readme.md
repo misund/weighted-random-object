@@ -4,7 +4,7 @@ Get a weighted random object from an array of objects with a weight property.
 The objects should have a property with key 'weight' and a numerical value.
 
 # Usage
-```
+```js
 var weightedRandomObject = require("weighted-random-object");
 
 var fruitBasket = [
