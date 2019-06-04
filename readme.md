@@ -23,7 +23,7 @@ console.log(fruit.type); // sometimes 'apple', more often 'pear'
 ```
 
 ## Contributing
-I appreciate your issues and PRs [on Github](https://github.com/misund/get-relative-luminance)!
+I appreciate your issues and PRs [on Github](https://github.com/misund/weighted-random-object)!
 
 ### Testing
 ```
