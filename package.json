@@ -7,7 +7,7 @@
     "build": "babel src -d build",
     "prepublish": "npm run build",
     "release": "np",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"YOU SHOULD KNOW: there aren't actually any real tests specified\""
   },
   "repository": {
     "type": "git",
