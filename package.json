@@ -25,6 +25,6 @@
     "@babel/cli": "7.5.5",
     "@babel/core": "7.5.5",
     "@babel/preset-env": "7.5.5",
-    "np": "5.0.2"
+    "np": "5.1.1"
   }
 }
